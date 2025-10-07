@@ -22,6 +22,7 @@ wheels/
 MANIFEST
 *.log
 .env
+.env.example
 venv/
 ENV/
 env/
@@ -41,10 +42,12 @@ Thumbs.db
 # Project-specific exclusions
 docs/
 scripts/
+diagrams/
 frontend/public/architecture*.svg
 frontend/public/architecture*.html
 job_description.txt
 README_DEPLOYMENT.md
+README_PERSONAL.md
 sample_output.txt
 
 # Node modules

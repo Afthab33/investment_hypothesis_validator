@@ -1,0 +1,32 @@
+services:
+  - type: web
+    name: investment-hypothesis-validator-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements-api.txt
+    startCommand: uvicorn src.api.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: AWS_REGION
+        sync: false
+      - key: AWS_ACCESS_KEY_ID
+        sync: false
+      - key: AWS_SECRET_ACCESS_KEY
+        sync: false
+      - key: OPENSEARCH_URL
+        sync: false
+      - key: OPENSEARCH_INDEX_NAME
+        value: investment-documents
+      - key: BEDROCK_REGION
+        value: us-east-1
+      - key: BEDROCK_EMBEDDING_MODEL
+        value: amazon.titan-embed-text-v2:0
+      - key: BEDROCK_LLM_MODEL
+        value: us.anthropic.claude-sonnet-4-20250514-v1:0
+      - key: TOP_K_PER_SOURCE
+        value: 5
+      - key: VECTOR_WEIGHT
+        value: 0.6
+      - key: KEYWORD_WEIGHT
+        value: 0.4
+      - key: RECENCY_HALFLIFE_DAYS
+        value: 14

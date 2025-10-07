@@ -1,0 +1,38 @@
+{
+  "company": "Tesla",
+  "source_type": "chat",
+  "source_name": "Synthetic Bloomberg IB",
+  "date_range": "2024-07-20 to 2024-07-23",
+  "language": "en",
+  "region": "US",
+  "tickers": ["TSLA"],
+  "sentiment": "bearish",
+  "doc_id": "tesla_chat_02"
+}
+---
+Trader1: auto revenue down 7% YoY, that's concerning
+Analyst1: yeah and only reason headline looks ok is reg credits
+PM: $890M in credits masking underlying weakness
+Trader2: exactly, strip those out and margins are ugly
+Trader1: EPS miss by 13%, street not happy
+Analyst1: pricing pressure getting worse not better
+PM: had to offer heavy incentives just to hit delivery numbers
+Trader2: hearing Model 3 discounts up to $5k in some markets
+Analyst1: competition crushing them in Europe
+Trader1: BYD and VW taking serious share
+PM: China's a bloodbath, pricing wars everywhere
+Trader2: demand issue is real, inventory building up
+Analyst1: 45% drop in net income YoY is brutal
+Trader1: and Musk's political stuff alienating the core buyer demographic
+PM: seen the Pew data? only 13% of Republicans want EVs
+Analyst1: his base doesn't buy electric, he's burning the wrong bridge
+Trader2: robotaxi promises feel like vaporware at this point
+PM: been hearing full autonomy "next year" since 2016
+Trader1: no regulatory approvals filed in key states yet
+Analyst1: Waymo actually operating, Tesla just talking
+Trader2: Cybertruck production issues still not resolved
+PM: that's supposed to be the growth driver
+Analyst1: aging lineup, no new affordable model until 2026
+Trader1: trimming position, too much execution risk here
+PM: agree, better opportunities elsewhere in EV space
+

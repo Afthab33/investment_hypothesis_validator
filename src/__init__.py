@@ -1,0 +1,1 @@
+# Soros Investment Validator Package

@@ -1,0 +1,36 @@
+{
+  "company": "Tesla",
+  "source_type": "chat",
+  "source_name": "Synthetic Bloomberg IB",
+  "date_range": "2024-07-20 to 2024-07-23",
+  "language": "en",
+  "region": "US",
+  "tickers": ["TSLA"],
+  "sentiment": "bullish",
+  "doc_id": "tesla_chat_01"
+}
+---
+Trader1: Q2 deliveries came in way better than expected
+Analyst1: 444k units vs street at 438k
+PM: production efficiency improving across all factories
+Trader2: yeah Shanghai hitting record output levels
+Trader1: margins should stabilize here, cost per unit down 8% QoQ
+Analyst1: energy storage business absolutely crushing it
+PM: 9.4 GWh is massive, that segment profitable now
+Trader2: regulatory credits also strong this Q
+Analyst1: $890M in credits, triple YoY
+Trader1: Musk sounded way more confident on the call
+PM: agree, tone was night and day vs Q1
+Trader2: FSD rollout accelerating, that's the real kicker
+Analyst1: if robotaxi event goes well in Oct could be a catalyst
+Trader1: hearing European demand picking back up
+PM: yeah Model Y back to top seller in multiple markets
+Trader2: China ASP holding better than feared
+Analyst1: competition intense but they're managing it
+Trader1: thinking we see margin expansion in H2
+PM: cost cuts finally flowing through, headcount reduction helping
+Trader2: free cash flow should turn positive Q3
+Analyst1: balance sheet still fortress, no capital needs
+Trader1: adding to position here, risk/reward looks good
+PM: agreed, worst seems behind us
+

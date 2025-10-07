@@ -1,0 +1,22 @@
+# FastAPI Backend Requirements
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+python-dotenv==1.0.1
+
+# Core Dependencies (from existing requirements.txt)
+langchain==0.3.13
+langgraph==0.2.59
+langchain-aws==0.2.9
+langchain-core==0.3.28
+langchain-community==0.3.13
+
+# AWS
+boto3==1.35.80
+opensearch-py==2.8.0
+
+# Data Processing
+pydantic==2.10.4
+pydantic-settings==2.7.0
+
+# HTTP
+requests==2.32.3

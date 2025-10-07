@@ -23,7 +23,7 @@ The Investment Hypothesis Validator is a production-grade AI system that analyze
 
 ## Architecture
 
-![System Architecture](architecture_simple.png)
+![System Architecture](architecture.png)
 
 ### System Design
 

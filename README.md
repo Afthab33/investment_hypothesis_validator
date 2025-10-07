@@ -23,7 +23,7 @@ The Investment Hypothesis Validator is a production-grade AI system that analyze
 
 ## Architecture
 
-![System Architecture](architecture.png)
+![Detailed Architecture](architecture.png)
 
 ### System Design
 
@@ -47,10 +47,6 @@ The platform implements a sophisticated retrieval-augmented generation (RAG) pip
 - Confidence scoring using weighted heuristics
 - FastAPI REST endpoints for programmatic access
 - React web interface with interactive citation exploration
-
-## Technical Architecture
-
-![Detailed Architecture](architecture.png)
 
 ### Core Components
 
